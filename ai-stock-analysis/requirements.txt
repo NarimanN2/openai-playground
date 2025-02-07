@@ -1,0 +1,4 @@
+yfinance
+pydantic-ai
+asyncio
+streamlit
