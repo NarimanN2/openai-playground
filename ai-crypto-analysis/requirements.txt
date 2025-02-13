@@ -1,0 +1,4 @@
+pycoingecko
+llama-index
+numpy
+streamlit
