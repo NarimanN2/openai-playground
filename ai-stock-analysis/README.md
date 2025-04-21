@@ -1,4 +1,4 @@
-# MCP Agent
+# AI Researcher
 An MCP (Model Context Protocol) server and client using FastMCP and LangChain. 
 
 You can watch the video on how it was built on my [YouTube](https://youtu.be/3K39NJbp2IA).
