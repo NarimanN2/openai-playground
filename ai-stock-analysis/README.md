@@ -1,7 +1,7 @@
-# AI Researcher
-An MCP (Model Context Protocol) server and client using FastMCP and LangChain. 
+# AI Stock Analysis
+An AI Agent to Analyze Stocks Using ChatGPT, PydanticAI, and Streamlit. 
 
-You can watch the video on how it was built on my [YouTube](https://youtu.be/3K39NJbp2IA).
+You can watch the video on how it was built on my [YouTube](https://youtu.be/aZtfTrlZ4sA).
 
 # Pre-requisites
 
@@ -21,5 +21,5 @@ export OPENAI_API_KEY=...
 Run the application:
 
 ```bash
-python mcp_client.py
+streamlit run ai_stock_analysis.py
 ```
