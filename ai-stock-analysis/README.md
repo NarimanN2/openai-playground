@@ -1,5 +1,5 @@
 # AI Stock Analysis
-An AI Agent to Analyze Stocks Using ChatGPT, PydanticAI, and Streamlit. 
+An AI agent to analyze stocks using ChatGPT, PydanticAI, and Streamlit. 
 
 You can watch the video on how it was built on my [YouTube](https://youtu.be/aZtfTrlZ4sA).
 
