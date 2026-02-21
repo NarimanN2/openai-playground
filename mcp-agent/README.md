@@ -3,7 +3,7 @@ An MCP (Model Context Protocol) server and client using FastMCP and LangChain.
 
 You can watch the video on how it was built on my [YouTube](https://youtu.be/3K39NJbp2IA).
 
-# Pre-requisites
+## Pre-requisites
 
 Install the dependencies using pip:
 
@@ -17,7 +17,7 @@ Generate an OpenAI API key and set the OPENAI_API_KEY environment variable:
 export OPENAI_API_KEY=...
 ```
 
-# Run
+## Run
 Run the application:
 
 ```bash

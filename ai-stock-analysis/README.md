@@ -3,7 +3,7 @@ An AI agent to analyze stocks using ChatGPT, PydanticAI, and Streamlit.
 
 You can watch the video on how it was built on my [YouTube](https://youtu.be/aZtfTrlZ4sA).
 
-# Pre-requisites
+## Pre-requisites
 
 Install the dependencies using pip:
 
@@ -17,7 +17,7 @@ Generate an OpenAI API key and set the OPENAI_API_KEY environment variable:
 export OPENAI_API_KEY=...
 ```
 
-# Run
+## Run
 Run the application:
 
 ```bash
