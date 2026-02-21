@@ -1,0 +1,5 @@
+langchain-openai
+langchain-community
+langchain-core
+redis
+scipy
