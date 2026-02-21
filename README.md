@@ -5,3 +5,4 @@ This repository contains the code for the projects I built using OpenAI's LLM mo
 - [AI Stock Analysis](/ai-stock-analysis/README.md)
 - [AI Crypto Analysis](/ai-crypto-analysis/README.md)
 - [MCP Agent](/mcp-agent/README.md)
+- [Semantic Caching](/semantic-caching/README.md)

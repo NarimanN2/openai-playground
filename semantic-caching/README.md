@@ -23,6 +23,7 @@ docker run -p 6379:6379 redis
 ```
 
 ## Run
+Run the application:
 
 ```bash
 python semantic_caching.py
